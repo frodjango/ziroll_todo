@@ -1,6 +1,11 @@
+
+/* For the overall application */
+
 body {
     background-color: whitesmoke;
 }
+
+/* For the ToDoList React component */
 
 .todo-list {
     background-color: white;
@@ -23,6 +28,8 @@ body {
         0 20px 1px -9px rgba(0,0,0,0.15);
     padding: 30px;
 }
+
+/* For the TodoItem functional component */
 
 .todo-item {
     display: flex;
